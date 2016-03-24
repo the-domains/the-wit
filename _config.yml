@@ -1,6 +1,6 @@
 name: The Wit
 favicon: null
-layout_spectrum: 0.40332
+layout_spectrum: 0.31188
 typography_spectrum: 0.18676149402745068
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0
+    - '#ffffff'
+    - '#000000'
+    - '#3500c9'
+    - '#c0c0c0'
+    - '#4f4f4f'
+  brandStrength: 0.3125
   lightness: 0.3125
   saturation: 0.375
   rhythmicContrast: 0.5
