@@ -4,7 +4,7 @@
         <description><![CDATA[The Wit]]></description>
         <link>https://thegrid.ai/the-wit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 19:06:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 19:12:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-wit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About The Wit]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-wit/about-the-wit/index.html</link>
             <guid isPermaLink="false">f88b584e-1b61-42ee-844d-1e711746be34</guid>
             <pubDate>Thu, 24 Mar 2016 18:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Past Projects]]></title>
+            <description><![CDATA[<article><h1>Past Projects</h1><p>Arcadia</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c23e9b81-6e77-4a7d-a2a4-35b4b8293a8a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
+            <guid isPermaLink="false">122fbe10-4d0b-4937-a823-aee320a3dd7b</guid>
+            <pubDate>Thu, 24 Mar 2016 19:12:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Past Projects]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
             <guid isPermaLink="false">95cdc469-7bf0-42e6-84fa-bbbddcc885be</guid>
             <pubDate>Thu, 24 Mar 2016 19:01:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Past Projects]]></title>
-            <description><![CDATA[<article><h1>Past Projects</h1><h2>Richard O'Brien's The Rocky Horror Show</h2><p>The Wit in association with Fearless Theatre & Performing Arts Project presents Richard O'Brien's classic tribute to the science fiction and B Horror flicks of the late 1940s through the 1970s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a390ac31cef731d1eda4eba4553cc42280dbd2b3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
-            <guid isPermaLink="false">3797124a-2c01-4000-ae10-2601e77ab2b0</guid>
-            <pubDate>Thu, 24 Mar 2016 19:00:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
