@@ -4,7 +4,7 @@
         <description><![CDATA[The Wit]]></description>
         <link>https://thegrid.ai/the-wit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 19:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 19:04:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-wit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About The Wit]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/the-wit/about-the-wit/index.html</link>
             <guid isPermaLink="false">f88b584e-1b61-42ee-844d-1e711746be34</guid>
             <pubDate>Thu, 24 Mar 2016 18:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Past Projects]]></title>
+            <description><![CDATA[<article><h1>Past Projects</h1><p>Cat on a Hot Tin Roof</p></article>]]></description>
+            <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
+            <guid isPermaLink="false">16e1e78a-56e3-4910-9d4f-fa9b4aa6ce2b</guid>
+            <pubDate>Thu, 24 Mar 2016 19:04:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Past Projects]]></title>
+            <description><![CDATA[<article><h1>Past Projects</h1><p>The Last Five Years</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a74d10110831bafc745fc35c70f5b22c9a4bf234.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
+            <guid isPermaLink="false">7dcb460f-537c-4090-b86c-7d226522c899</guid>
+            <pubDate>Thu, 24 Mar 2016 19:01:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Past Projects]]></title>
