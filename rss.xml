@@ -4,7 +4,7 @@
         <description><![CDATA[The Wit]]></description>
         <link>https://thegrid.ai/the-wit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 19:00:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 19:00:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-wit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About The Wit]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/the-wit/about-the-wit/index.html</link>
             <guid isPermaLink="false">f88b584e-1b61-42ee-844d-1e711746be34</guid>
             <pubDate>Thu, 24 Mar 2016 18:58:45 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Past Projects]]></title>
+            <description><![CDATA[<article><h1>Past Projects</h1><h2>Ed Mill's & Jeremy Palmer's The LA Diner</h2><p>The LA Diner</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/af38a36a41f87c23e87f063239b6f62bcf5b5b0b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
+            <guid isPermaLink="false">060608d3-07e1-4f3a-bb57-8fe0bc42b0d3</guid>
+            <pubDate>Thu, 24 Mar 2016 19:00:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Past Projects]]></title>
