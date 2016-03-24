@@ -1,6 +1,6 @@
 name: The Wit
 favicon: null
-layout_spectrum: 0.6732194391079247
+layout_spectrum: 0.40332
 typography_spectrum: 0.18676149402745068
 cta:
   domain: null
@@ -24,5 +24,5 @@ color:
   brandStrength: 0.32953655533492565
   lightness: 0.4557975260540843
   saturation: 0.07970331539399922
-  rhythmicContrast: 0.05609474773518741
+  rhythmicContrast: 0.5
 purpose: []
