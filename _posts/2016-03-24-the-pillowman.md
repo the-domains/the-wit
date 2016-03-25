@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: The Pillowman
-datePublished: '2016-03-24T19:04:45.260Z'
-dateModified: '2016-03-24T19:03:51.407Z'
+datePublished: '2016-03-25T03:33:17.748Z'
+dateModified: '2016-03-25T03:31:07.813Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-24-the-pillowman.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: past-projects/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Past Projects
