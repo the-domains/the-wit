@@ -4,7 +4,7 @@
         <description><![CDATA[The Wit]]></description>
         <link>https://thegrid.ai/the-wit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 03:37:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 03:40:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-wit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About The Wit]]></title>
@@ -15,17 +15,17 @@
         </item>
         <item>
             <title><![CDATA[Past Projects]]></title>
+            <description><![CDATA[<article><h1>Past Projects</h1><p>To commemorate the longstanding tradition of drinking on, off, and all around the stage, The Wit Theatre Company & partners present a frothy, hopped-up comedy with notes of romance and intrigue...at a taphouse!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3d6532c83d520e12db96292007c566eb555fd36.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
+            <guid isPermaLink="false">1889769c-5839-4afc-b690-f3247e44d130</guid>
+            <pubDate>Fri, 25 Mar 2016 03:40:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Past Projects]]></title>
             <description><![CDATA[<article><h1>Past Projects</h1><h2>Richard O'Brien's The Rocky Horror Show</h2><p>The Wit in association with Fearless Theatre & Performing Arts Project presents Richard O'Brien's classic tribute to the science fiction and B Horror flicks of the late 1940s through the 1970s.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a390ac31cef731d1eda4eba4553cc42280dbd2b3.jpg"></article>]]></description>
             <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
             <guid isPermaLink="false">3797124a-2c01-4000-ae10-2601e77ab2b0</guid>
             <pubDate>Thu, 24 Mar 2016 19:52:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Past Projects]]></title>
-            <description><![CDATA[<article><h1>Past Projects</h1><p>The Last Five Years</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a74d10110831bafc745fc35c70f5b22c9a4bf234.jpg"></article>]]></description>
-            <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
-            <guid isPermaLink="false">7dcb460f-537c-4090-b86c-7d226522c899</guid>
-            <pubDate>Thu, 24 Mar 2016 19:01:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
