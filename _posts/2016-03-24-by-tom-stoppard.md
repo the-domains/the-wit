@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Arcadia
-datePublished: '2016-03-24T19:12:20.348Z'
-dateModified: '2016-03-24T19:12:05.895Z'
+datePublished: '2016-03-25T03:36:02.579Z'
+dateModified: '2016-03-25T03:34:57.400Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-24-by-tom-stoppard.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: past-projects/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Past Projects
