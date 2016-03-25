@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Cat on a Hot Tin Roof
-datePublished: '2016-03-24T19:04:45.381Z'
-dateModified: '2016-03-24T19:03:32.366Z'
+datePublished: '2016-03-25T03:35:52.067Z'
+dateModified: '2016-03-25T03:34:34.401Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-24-cat-on-a-hot-tin-roof.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: past-projects/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Past Projects
