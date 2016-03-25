@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'To commemorate the longstanding tradition of drinking on, off, and all around the stage, The Wit Theatre Company & partners present a frothy, hopped-up comedy with notes of romance and intrigue...at a taphouse!'
-datePublished: '2016-03-25T04:08:52.279Z'
-dateModified: '2016-03-25T04:08:36.018Z'
+datePublished: '2016-03-25T04:09:55.544Z'
+dateModified: '2016-03-25T04:09:01.533Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-23-past-projects.md
