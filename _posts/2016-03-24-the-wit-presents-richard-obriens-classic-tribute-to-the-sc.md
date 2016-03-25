@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: "The Wit in association with Fearless Theatre & Performing Arts Project presents Richard O'Brien's classic tribute to the science fiction and B Horror flicks of the late 1940s through the 1970s."
-datePublished: '2016-03-24T19:52:37.922Z'
-dateModified: '2016-03-24T19:52:37.398Z'
+datePublished: '2016-03-25T03:40:32.123Z'
+dateModified: '2016-03-25T03:39:42.012Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-24-the-wit-presents-richard-obriens-classic-tribute-to-the-sc.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: past-projects/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Past Projects
