@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: 'Edges: A Song Cycle'
-datePublished: '2016-03-24T22:45:53.327Z'
-dateModified: '2016-03-24T22:45:43.912Z'
+datePublished: '2016-03-25T03:37:27.944Z'
+dateModified: '2016-03-25T03:36:26.920Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-24-edges-is-not-a-musicaledges-is-the-portrait-of-a-landscape.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: past-projects/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Past Projects
