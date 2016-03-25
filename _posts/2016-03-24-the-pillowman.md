@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Pillowman
-datePublished: '2016-03-25T03:33:17.748Z'
-dateModified: '2016-03-25T03:31:07.813Z'
+datePublished: '2016-03-25T03:33:56.160Z'
+dateModified: '2016-03-25T03:33:26.056Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-24-the-pillowman.md
