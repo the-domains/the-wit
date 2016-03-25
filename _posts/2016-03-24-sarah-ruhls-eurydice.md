@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Eurydice
-datePublished: '2016-03-25T03:44:07.198Z'
-dateModified: '2016-03-25T03:41:36.720Z'
+datePublished: '2016-03-25T03:46:32.394Z'
+dateModified: '2016-03-25T03:46:17.331Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-24-sarah-ruhls-eurydice.md
