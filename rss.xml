@@ -4,7 +4,7 @@
         <description><![CDATA[The Wit]]></description>
         <link>https://thegrid.ai/the-wit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 03:36:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 03:36:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-wit/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[About The Wit]]></title>
@@ -26,6 +26,13 @@
             <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
             <guid isPermaLink="false">ee4dc408-a395-41de-a27f-87f08bac2925</guid>
             <pubDate>Thu, 24 Mar 2016 22:45:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Past Projects]]></title>
+            <description><![CDATA[<article><h1>Past Projects</h1><p>Arcadia</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c23e9b81-6e77-4a7d-a2a4-35b4b8293a8a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-wit/past-projects/index.html</link>
+            <guid isPermaLink="false">122fbe10-4d0b-4937-a823-aee320a3dd7b</guid>
+            <pubDate>Thu, 24 Mar 2016 19:12:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Past Projects]]></title>
