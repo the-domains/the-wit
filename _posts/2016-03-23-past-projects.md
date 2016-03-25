@@ -1,13 +1,13 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'To commemorate the longstanding tradition of drinking on, off, and all around the stage, The Wit Theatre Company & partners present a frothy, hopped-up comedy with notes of romance and intrigue...at a taphouse!'
-datePublished: '2016-03-25T03:46:21.410Z'
-dateModified: '2016-03-25T03:45:56.913Z'
+datePublished: '2016-03-25T04:07:51.508Z'
+dateModified: '2016-03-25T04:07:46.253Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-23-past-projects.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: past-projects/index.html
-_type: Blurb
+_type: WebPage
 
 ---
 ## Shakesbeer
