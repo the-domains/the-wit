@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Eurydice
-datePublished: '2016-03-24T19:00:10.284Z'
-dateModified: '2016-03-24T18:59:40.603Z'
+datePublished: '2016-03-25T03:41:27.496Z'
+dateModified: '2016-03-25T03:39:59.227Z'
 title: Past Projects
 author: []
 sourcePath: _posts/2016-03-24-sarah-ruhls-eurydice.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: past-projects/index.html
-_type: Article
+_type: Blurb
 
 ---
 ## Sarah Ruhl's Eurydice
